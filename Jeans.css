@@ -1,0 +1,35 @@
+body{
+    background-color: peachpuff;
+   color: black;
+ }
+
+h1{
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+}
+
+#navLinks .navitem{
+    text-align: justify;
+    width: 100px;
+    margin: auto;
+}
+
+.btn{
+    background-color: white;
+}
+
+.row1{
+width: 25%;
+text-align: center;
+}
+
+p{
+    color: black;
+    font-size: 50%;
+}
+
+#DottedBorder{
+
+    border: 3px dotted navy;
+}
